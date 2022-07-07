@@ -89,7 +89,7 @@ The code in the folders src-imagenet-cartoon and src-imagenet-drawing are taken 
 
 [1] Tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”. [GitHub Repo Link](https://github.com/SystemErrorWang/White-box-Cartoonization)
 
-[2] Python implementation of the pencil drawing by sketch and tone algorithm. [Github Repo Link](https://github.com/ taldatech/image2pencil-drawing)
+[2] Python implementation of the pencil drawing by sketch and tone algorithm. [Github Repo Link](https://github.com/taldatech/image2pencil-drawing)
 
 
 
